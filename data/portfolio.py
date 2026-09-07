@@ -1,1 +1,19 @@
 
+equity = [
+  "RELIANCE.NS",
+  "HDFCBANK.NS",
+  "ICICIBANK.NS",
+  "INFY.NS",
+  "TCS.NS",
+]
+
+govt_sec = [
+  "IN0020060045",    #NSE symbol : 833GS2036
+  "IN0020240043"     #NSE SYMBOL : 702GS2027
+           ]
+
+bonds = [
+  	"INE202B07JW4",    #NSE SYMBOL : 875PFL27
+    "INE121A07SR9",    #NSE SYMBOL : 783CIFCL28
+    "INE033L07IR4"     #NSE SYMBOL : 730TCHFL28
+]
